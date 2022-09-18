@@ -1,0 +1,8 @@
+{
+  "restartable": "rs",
+  "verbose": true,
+  "watch": ["src", "package.json", "tsconfig.json"],
+  "ignore": [],
+  "ext": "ts js ejs json",
+  "exec": "pnpm dev"
+}
